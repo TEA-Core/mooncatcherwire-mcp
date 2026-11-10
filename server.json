@@ -3,8 +3,12 @@
   "name": "com.mooncatcherwire/wire",
   "title": "Mooncatcher Wire",
   "description": "Free crypto news for agents: top stories by market impact, search, topics, AI digest.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://www.mooncatcherwire.com/agents/",
+  "repository": {
+    "url": "https://github.com/TEA-Core/mooncatcherwire-mcp",
+    "source": "github"
+  },
   "remotes": [
     { "type": "streamable-http", "url": "https://mooncatcherwire.com/mcp" }
   ]
